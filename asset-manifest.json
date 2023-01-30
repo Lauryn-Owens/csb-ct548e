@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lauryn-owens.github.io/csb-ct548e/static/css/main.f564d609.chunk.css",
+    "main.js": "https://lauryn-owens.github.io/csb-ct548e/static/js/main.11c6199e.chunk.js",
+    "main.js.map": "https://lauryn-owens.github.io/csb-ct548e/static/js/main.11c6199e.chunk.js.map",
+    "runtime-main.js": "https://lauryn-owens.github.io/csb-ct548e/static/js/runtime-main.c3be4879.js",
+    "runtime-main.js.map": "https://lauryn-owens.github.io/csb-ct548e/static/js/runtime-main.c3be4879.js.map",
+    "static/js/2.4d53d043.chunk.js": "https://lauryn-owens.github.io/csb-ct548e/static/js/2.4d53d043.chunk.js",
+    "static/js/2.4d53d043.chunk.js.map": "https://lauryn-owens.github.io/csb-ct548e/static/js/2.4d53d043.chunk.js.map",
+    "index.html": "https://lauryn-owens.github.io/csb-ct548e/index.html",
+    "static/css/main.f564d609.chunk.css.map": "https://lauryn-owens.github.io/csb-ct548e/static/css/main.f564d609.chunk.css.map",
+    "static/js/2.4d53d043.chunk.js.LICENSE.txt": "https://lauryn-owens.github.io/csb-ct548e/static/js/2.4d53d043.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3be4879.js",
+    "static/js/2.4d53d043.chunk.js",
+    "static/css/main.f564d609.chunk.css",
+    "static/js/main.11c6199e.chunk.js"
+  ]
+}
